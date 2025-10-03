@@ -14,10 +14,10 @@ Smooth Animations: Powered by AOS (Animate On Scroll) library for engaging trans
 Scroll-to-Top Button: Quick navigation for longer pages.
 
 ## Tech Stack
-HTML5 for structure
-CSS3 for styling, including flexbox, grid, and custom animations
-Vanilla JavaScript for interactivity (mobile menu, sticky header, scroll events)
-External Libraries: Poppins font from Google Fonts, AOS for animations
+- HTML5 for structure
+- CSS3 for styling, including flexbox, grid, and custom animations
+- Vanilla JavaScript for interactivity (mobile menu, sticky header, scroll events)
+- External Libraries: Poppins font from Google Fonts, AOS for animations
 
 ## Live Demo
 👉 [Click here](https://mohamedashraf011.github.io/Portfolio1/)
