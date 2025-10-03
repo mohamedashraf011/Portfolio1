@@ -11,7 +11,7 @@ A modern, responsive personal portfolio built with pure HTML, CSS, and JavaScrip
 - Contact Form: Simple form with address, phone, email, and website details (Sohag, Egypt | 01234567890 | contact@email.com | mywebsite.com).
 - Responsive Design: Mobile-friendly with hamburger menu and sticky navigation.
 - Smooth Animations: Powered by AOS (Animate On Scroll) library for engaging transitions.
-= Scroll-to-Top Button: Quick navigation for longer pages.
+- Scroll-to-Top Button: Quick navigation for longer pages.
 
 ## Tech Stack
 - HTML5 for structure
