@@ -8,7 +8,7 @@ A modern, responsive personal portfolio built with pure HTML, CSS, and JavaScrip
 - Skills Progress Bars: Visual representation of expertise in HTML (95%), CSS (90%), JavaScript (80%), Python (85%), and PHP (65%).
 - Services Cards: Interactive cards for Web Design, Motion Graphic Design, and Web Development.
 - Portfolio Gallery: Grid of work samples with hover zoom effects.
-- Contact Form: Simple form with address, phone, email, and website details (Sohag, Egypt | 01234567890 | contact@email.com | mywebsite.com).
+- Contact Form: Simple form with address, phone, email, and website details.
 - Responsive Design: Mobile-friendly with hamburger menu and sticky navigation.
 - Smooth Animations: Powered by AOS (Animate On Scroll) library for engaging transitions.
 - Scroll-to-Top Button: Quick navigation for longer pages.
