@@ -1,8 +1,8 @@
 # Portfolio Website
 
 A modern, responsive personal portfolio built with pure HTML, CSS, and JavaScript. Showcase your skills, services, and projects as a Web Developer, Designer, and Programmer.
-🚀 Features
 
+🚀 Features
 Animated Hero Section: Eye-catching intro with cycling profession titles (Web Developer, Web Designer, Programmer).
 About Me: Detailed bio with placeholder lorem ipsum content and image placeholder.
 Skills Progress Bars: Visual representation of expertise in HTML (95%), CSS (90%), JavaScript (80%), Python (85%), and PHP (65%).
@@ -14,11 +14,10 @@ Smooth Animations: Powered by AOS (Animate On Scroll) library for engaging trans
 Scroll-to-Top Button: Quick navigation for longer pages.
 
 🛠️ Tech Stack
-
 HTML5 for structure
 CSS3 for styling, including flexbox, grid, and custom animations
 Vanilla JavaScript for interactivity (mobile menu, sticky header, scroll events)
 External Libraries: Poppins font from Google Fonts, AOS for animations
 
-📱 Demo
+# Demo
 Live preview: https://mohamedashraf011.github.io/Portfolio1/
